@@ -14,4 +14,5 @@ Not everything is written to be shared, and there may be some hacky or makeshift
 - **Klipper install helper:** [KIAUH Repository](https://github.com/dw-0/kiauh)
 - **Happy-Hare 'ERCF' config files and scripts:** [Happy-Hare Repository](https://github.com/moggieuk/Happy-Hare)
 - **ERCF-MMU Enraged Rabbit Carrot Feeder - Multi-Material Unit:** [Enraged Rabbit Project Repository](https://github.com/EtteGit/EnragedRabbitProject)
-- **Shake and Tune input shaping scripts:** [Shaketune](https://github.com/Frix-x/klippain-shaketune/blob/main/docs/README.md)
+- **Shake and Tune input shaping scripts:** [Shaketune Repository](https://github.com/Frix-x/klippain-shaketune/blob/main/docs/README.md)
+- **Voron Tap:** [Voron Tap Repository](https://github.com/VoronDesign/Voron-Tap)
