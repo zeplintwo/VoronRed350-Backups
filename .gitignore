@@ -3,8 +3,11 @@ adxl_results/belts/*.csv
 adxl_results/vibrations/*.tar.gz
 *.swp
 *.tmp
-printer-[0-9]*_[0-9]*.cfg
+printer-[0-9]*_[0-9]*.cfg*
+mmu-[0-9]*_[0-9]*.cfg*
 *.bak
 *.bkp
 *.csv
 *.zip
+K-ShakeTune_results
+ShakeTune_results
